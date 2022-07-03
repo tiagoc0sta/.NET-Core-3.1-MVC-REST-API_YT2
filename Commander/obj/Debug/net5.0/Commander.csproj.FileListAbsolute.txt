@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\Portfolio\C# - .Net\04-.NET-Core-3.1-MVC-REST-API_YT2\.NET-Core-3.1-MVC-REST-API_YT2\Commander\obj\Debug\net5.0\Commander.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Portfolio\C# - .Net\04-.NET-Core-3.1-MVC-REST-API_YT2\.NET-Core-3.1-MVC-REST-API_YT2\Commander\obj\Debug\net5.0\Commander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Portfolio\C# - .Net\04-.NET-Core-3.1-MVC-REST-API_YT2\.NET-Core-3.1-MVC-REST-API_YT2\Commander\obj\Debug\net5.0\Commander.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Portfolio\C# - .Net\04-.NET-Core-3.1-MVC-REST-API_YT2\.NET-Core-3.1-MVC-REST-API_YT2\Commander\obj\Debug\net5.0\Commander.AssemblyInfo.cs
+C:\Users\chris\source\repos\Portfolio\C# - .Net\04-.NET-Core-3.1-MVC-REST-API_YT2\.NET-Core-3.1-MVC-REST-API_YT2\Commander\obj\Debug\net5.0\Commander.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Portfolio\C# - .Net\04-.NET-Core-3.1-MVC-REST-API_YT2\.NET-Core-3.1-MVC-REST-API_YT2\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chris\source\repos\Portfolio\C# - .Net\04-.NET-Core-3.1-MVC-REST-API_YT2\.NET-Core-3.1-MVC-REST-API_YT2\Commander\obj\Debug\net5.0\Commander.MvcApplicationPartsAssemblyInfo.cache
